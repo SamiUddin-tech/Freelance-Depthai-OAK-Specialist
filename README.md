@@ -10,3 +10,11 @@ This repository is dedicated to showcasing the expertise and projects of my Free
 
 Hornet AI, designed for quick identification and monitoring of the invasive Asian hornet in Europe, is a crucial tool in wildlife management and ecological protection. It features a high-resolution camera set on a landing pad with attractants, capturing detailed images for continuous analysis. When Asian hornet presence is detected, the system sends real-time alerts, enabling prompt action by authorities. This technology is vital for distinguishing Asian hornets from native species and managing their spread, especially as sightings increase annually.
 
+Important Note: The Project is the intellectual property of [The Far Out Thinking Company Limited](https://www.thefaroutthinkingcompany.co.uk/) and technical information is locked.
+
+Luxonis Stack: OAK - 1
+
+### Demo
+
+
+## PROJECT 02: 
