@@ -1,5 +1,5 @@
 # Freelance-Depthai-OAK-Specialist
-This repository highlights a Freelance Depthai OAK Specialist's work. It features projects and code showcasing Depthai's OAK devices for AI and computer vision, demonstrating real-time applications and custom solutions.
+This repository highlights my Freelance Depthai OAK work. It features projects and code showcasing Depthai's OAK devices for AI and computer vision, demonstrating real-time applications and custom solutions.
 
 ## Introduction
 This repository is dedicated to showcasing the expertise and projects of my Freelance Work for Companies using [LUXONIS's](https://www.luxonis.com/) [Depthai](https://docs.luxonis.com/en/latest/) and [OAK-D Stack](https://shop.luxonis.com/). It includes a variety of projects and code samples demonstrating the use of Depthai's OAK (OpenCV AI Kit) devices. The repository features real-time computer vision applications, AI models optimized for OAK devices, and custom solutions for unique client needs. My work here is aimed at providing advanced AI and computer vision capabilities, utilizing the powerful, yet compact OAK hardware for various applications. This repo serves as a portfolio and resource for those interested in employing DepthAI technology in their projects, highlighting the my proficiency in integrating AI at the edge.
