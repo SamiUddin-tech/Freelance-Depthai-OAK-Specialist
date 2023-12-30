@@ -4,7 +4,7 @@ This repository highlights my Freelance Depthai OAK work. It features projects a
 ## Introduction
 This repository is dedicated to showcasing the expertise and projects of my Freelance Work for Companies using [LUXONIS's](https://www.luxonis.com/) [Depthai](https://docs.luxonis.com/en/latest/) and [OAK-D Stack](https://shop.luxonis.com/). It includes a variety of projects and code samples demonstrating the use of Depthai's OAK (OpenCV AI Kit) devices. The repository features real-time computer vision applications, AI models optimized for OAK devices, and custom solutions for unique client needs. My work here is aimed at providing advanced AI and computer vision capabilities, utilizing the powerful, yet compact OAK hardware for various applications. This repo serves as a portfolio and resource for those interested in employing DepthAI technology in their projects, highlighting the my proficiency in integrating AI at the edge.
 
-## PROJECT: HORNET AI - PROTECTING NATIVE BIODIVERSITY With biosecurity
+## PROJECT 01: HORNET AI - PROTECTING NATIVE BIODIVERSITY With biosecurity
 
 ![HornetAI+ÔÇô┬álogo+ÔÇô+Colour+A-02](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/70398add-43f9-4147-a144-91d279bcbb5e)
 
