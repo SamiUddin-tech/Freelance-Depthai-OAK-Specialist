@@ -4,7 +4,8 @@ This repository highlights my Freelance Depthai OAK work. It features projects a
 ## Introduction
 This repository is dedicated to showcasing the expertise and projects of my Freelance Work for Companies using [LUXONIS's](https://www.luxonis.com/) [Depthai](https://docs.luxonis.com/en/latest/) and [OAK-D Stack](https://shop.luxonis.com/). It includes a variety of projects and code samples demonstrating the use of Depthai's OAK (OpenCV AI Kit) devices. The repository features real-time computer vision applications, AI models optimized for OAK devices, and custom solutions for unique client needs. My work here is aimed at providing advanced AI and computer vision capabilities, utilizing the powerful, yet compact OAK hardware for various applications. This repo serves as a portfolio and resource for those interested in employing DepthAI technology in their projects, highlighting the my proficiency in integrating AI at the edge.
 
-## PROJECT-01: HORNET AI - PROTECTING NATIVE BIODIVERSITY With biosecurity
+## Project-01: HornetAI
+### PROTECTING NATIVE BIODIVERSITY With biosecurity
 
 ![HornetAI+ÔÇô┬álogo+ÔÇô+Colour+A-02](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/70398add-43f9-4147-a144-91d279bcbb5e)
 
@@ -17,7 +18,8 @@ Important Note: The Project is the intellectual property of [The Far Out Thinkin
 ### Demo
 
 
-## PROJECT-02: DECODING THE HONEY BEE WAGGLE DANCE
+## PROJECT-02: WaggleAI (POLLINATION ANALYSIS)
+### DECODING THE HONEY BEE WAGGLE DANCE
 
 ![WaggleAI+ÔÇô+Logo+ÔÇô┬áColour+B-07](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/8073f52b-a0c7-42d3-b660-e909c67f471c)
 
@@ -30,7 +32,8 @@ Important Note: The Project is the intellectual property of [The Far Out Thinkin
 ### Demo
 
 
-## PROJECT-02: DECODING THE HONEY BEE WAGGLE DANCE
+## PROJECT-03: MothAI (MOTH ID SYSTEM) 
+### DECODING THE HONEY BEE WAGGLE DANCE
 
 ![MothAI+ÔÇô+logo+ÔÇô+Black-23](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/95d8a48f-7d3f-4121-b9bd-c218e9d2e3fd)
 
