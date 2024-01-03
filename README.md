@@ -10,7 +10,7 @@ This repository is dedicated to showcasing the expertise and projects of my Free
 
 Hornet AI, designed for quick identification and monitoring of the invasive Asian hornet in Europe, is a crucial tool in wildlife management and ecological protection. It features a high-resolution camera set on a landing pad with attractants, capturing detailed images for continuous analysis. When Asian hornet presence is detected, the system sends real-time alerts, enabling prompt action by authorities. This technology is vital for distinguishing Asian hornets from native species and managing their spread, especially as sightings increase annually.
 
-Important Note: The Project is the intellectual property of [The Far Out Thinking Company Limited](https://www.thefaroutthinkingcompany.co.uk/) | [https://www.pollenize.org.uk/asian-hornet-ai-detection](https://www.pollenize.org.uk/asian-hornet-ai-detection) and technical information is locked.
+Important Note: The Project is the intellectual property of [The Far Out Thinking Company Limited](https://www.thefaroutthinkingcompany.co.uk/) | [POLLENIZE](https://www.pollenize.org.uk/asian-hornet-ai-detection) and technical information is locked.
 
 **Luxonis Stack:** [OAK - 1 - Lite](https://shop.luxonis.com/collections/oak-cameras-1/products/oak-1-lite?variant=42583148069087)
 
@@ -23,7 +23,7 @@ Important Note: The Project is the intellectual property of [The Far Out Thinkin
 
 The honey bee waggle dance is a unique form of communication used by worker bees to inform their colony about the location of food sources, indicating both the distance and direction relative to the sun. Traditionally, understanding this dance required manual interpretation, a time-intensive process. Pollenize has addressed this challenge by developing research beehives equipped with AI-powered cameras. These cameras are designed to decode the waggle dance in real-time. By doing so, the technology essentially turns bees into bioindicators, pinpointing their destinations much like a GPS. This innovative approach allows for a more efficient and precise understanding of where bees are foraging, potentially providing valuable ecological insights.
 
-Important Note: The Project is the intellectual property of [The Far Out Thinking Company Limited](https://www.thefaroutthinkingcompany.co.uk/) | [https://www.pollenize.org.uk/asian-hornet-ai-detection](https://www.pollenize.org.uk/asian-hornet-ai-detection) and technical information is locked.
+Important Note: The Project is the intellectual property of [The Far Out Thinking Company Limited](https://www.thefaroutthinkingcompany.co.uk/) | [POLLENIZE](https://www.pollenize.org.uk/asian-hornet-ai-detection) and technical information is locked.
 
 **Luxonis Stack:** [OAK - 1 - Lite](https://shop.luxonis.com/collections/oak-cameras-1/products/oak-1-lite?variant=42583148069087)
 
