@@ -27,3 +27,24 @@ Important Note: The Project is the intellectual property of [The Far Out Thinkin
 
 **Luxonis Stack:** [OAK - 1 - Lite](https://shop.luxonis.com/collections/oak-cameras-1/products/oak-1-lite?variant=42583148069087)
 
+### Demo
+
+
+## PROJECT-02: DECODING THE HONEY BEE WAGGLE DANCE
+
+![MothAI+ÔÇô+logo+ÔÇô+Black-23](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/95d8a48f-7d3f-4121-b9bd-c218e9d2e3fd)
+
+The Moth AI Box is an innovative tool designed for monitoring and studying moth populations, an important bioindicator of biodiversity. Recognizing the significance of moths, which include over 2500 species in the UK alone, this device is particularly valuable for ecological research and conservation efforts.
+
+Moths play a crucial role in pollination, primarily during nighttime, and have unique interactions with a variety of flowers. Many moth species are sensitive to changes in their habitat, making their populations key indicators of environmental health. Alterations in moth communities can signal changes in habitat quality or structure.
+
+Monitoring moth populations is made efficient with the Moth AI Box, which utilizes a UV light to attract moths. This light can be controlled remotely, enhancing the convenience and feasibility of long-term studies. The device is equipped with an artificial intelligence-powered camera that periodically captures moth visitation. This setup allows for the accurate classification and identification of moth species over desired time frames, contributing to comprehensive and valuable ecological datasets.
+
+The Moth AI Box's ability to gather extensive data over extended periods is particularly advantageous for ecological research. Its innovative use of AI technology for species identification streamlines the process of monitoring moth populations, thereby aiding in the assessment and preservation of biodiversity.
+
+Important Note: The Project is the intellectual property of [The Far Out Thinking Company Limited](https://www.thefaroutthinkingcompany.co.uk/) | [POLLENIZE](https://www.pollenize.org.uk/asian-hornet-ai-detection) and technical information is locked.
+
+**Luxonis Stack:** [OAK - 1 - Lite](https://shop.luxonis.com/collections/oak-cameras-1/products/oak-1-lite?variant=42583148069087)
+
+### Demo
+
