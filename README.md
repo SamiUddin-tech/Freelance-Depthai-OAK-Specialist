@@ -12,7 +12,7 @@ Hornet AI, designed for quick identification and monitoring of the invasive Asia
 
 Important Note: The Project is the intellectual property of [The Far Out Thinking Company Limited](https://www.thefaroutthinkingcompany.co.uk/) | [https://www.pollenize.org.uk/asian-hornet-ai-detection](https://www.pollenize.org.uk/asian-hornet-ai-detection) and technical information is locked.
 
-**Luxonis Stack:** OAK - 1 - Lite
+**Luxonis Stack:** [OAK - 1 - Lite](https://shop.luxonis.com/collections/oak-cameras-1/products/oak-1-lite?variant=42583148069087)
 
 ### Demo
 
@@ -25,5 +25,5 @@ The honey bee waggle dance is a unique form of communication used by worker bees
 
 Important Note: The Project is the intellectual property of [The Far Out Thinking Company Limited](https://www.thefaroutthinkingcompany.co.uk/) | [https://www.pollenize.org.uk/asian-hornet-ai-detection](https://www.pollenize.org.uk/asian-hornet-ai-detection) and technical information is locked.
 
-**Luxonis Stack:** OAK - 1 - Lite
+**Luxonis Stack:** [OAK - 1 - Lite](https://shop.luxonis.com/collections/oak-cameras-1/products/oak-1-lite?variant=42583148069087)
 
