@@ -18,7 +18,7 @@ Important Note: The Project is the intellectual property of [The Far Out Thinkin
 ### Demo
 
 
-## PROJECT-02: WaggleAI (POLLINATION ANALYSIS)
+## Project-02: WaggleAI (POLLINATION ANALYSIS)
 ### DECODING THE HONEY BEE WAGGLE DANCE
 
 ![WaggleAI+ÔÇô+Logo+ÔÇô┬áColour+B-07](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/8073f52b-a0c7-42d3-b660-e909c67f471c)
@@ -32,7 +32,7 @@ Important Note: The Project is the intellectual property of [The Far Out Thinkin
 ### Demo
 
 
-## PROJECT-03: MothAI (MOTH ID SYSTEM) 
+## Project-03: MothAI (MOTH ID SYSTEM) 
 ### DECODING THE HONEY BEE WAGGLE DANCE
 
 ![MothAI+ÔÇô+logo+ÔÇô+Black-23](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/95d8a48f-7d3f-4121-b9bd-c218e9d2e3fd)
