@@ -64,4 +64,4 @@ An advanced anti-collision system designed specifically for the [ITWAY ICoy Move
 - **Integration with ICoy Mover Systems:** Seamlessly integrates with the existing control systems of the ICoy Mover, providing a smooth and safe operation.
 - **Data Logging:** Captures and logs environmental data for further analysis and system refinement.
 
-
+**Important Note:** The Project is the intellectual property of [ITWAY ICoy Mover](https://www.itway.com/en/itway-icoy-mover/) and technical information is locked.
