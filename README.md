@@ -67,3 +67,16 @@ An advanced anti-collision system designed specifically for the [ITWAY ICoy Move
 **Important Note:** The Project is the intellectual property of [ITWAY ICoy Mover](https://www.itway.com/en/itway-icoy-mover/) and technical information is locked.
 
 **Luxonis Stack:** [OAK - D - POE](https://shop.luxonis.com/products/oak-d-poe)
+
+### Demo
+
+
+## Project-05: [Vitlacy](https://vitalacy.com/) Fall Risk Alert 
+### Patient Fall Monitoring
+
+![patient-bed-v2_edited](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/27b64fbb-946c-4b99-a424-0b75deb8482c)
+
+
+
+
+
