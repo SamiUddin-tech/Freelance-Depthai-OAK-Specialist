@@ -56,7 +56,7 @@ The Moth AI Box's ability to gather extensive data over extended periods is part
 
 ![unnamedkk](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/31082248-080f-4001-ad90-9976ae349535)
 
-An advanced anti-collision system designed specifically for the ITWAY ICoy Mover leveraging the capabilities of the OAK-D-POE camera, this project aims to enhance the safety and efficiency of the ICoy Mover in various environments.
+An advanced anti-collision system designed specifically for the [ITWAY ICoy Mover](https://www.itway.com/en/itway-icoy-mover/) leveraging the capabilities of the OAK-D-POE camera, this project aims to enhance the safety and efficiency of the ICoy Mover in various environments.
 
 ### Key Features:
 - **Real-Time Object Detection:** Utilizes the OAK-D-POE's powerful spatial AI capabilities to detect and classify objects in real-time.
