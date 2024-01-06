@@ -51,3 +51,17 @@ The Moth AI Box's ability to gather extensive data over extended periods is part
 
 ### Demo
 
+## Project-04: Anti Collision System for Heavy Duty Machinery for ITWAY ICOY MOVER
+### Collision Avoidance System
+
+![unnamedkk](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/31082248-080f-4001-ad90-9976ae349535)
+
+An advanced anti-collision system designed specifically for the ITWAY ICoy Mover leveraging the capabilities of the OAK-D-POE camera, this project aims to enhance the safety and efficiency of the ICoy Mover in various environments.
+
+### Key Features:
+- **Real-Time Object Detection:** Utilizes the OAK-D-POE's powerful spatial AI capabilities to detect and classify objects in real-time.
+- **Collision Avoidance Algorithms:** Implements sophisticated algorithms to calculate distances and predict potential collisions, enabling the ICoy Mover to autonomously navigate around obstacles.
+- **Integration with ICoy Mover Systems:** Seamlessly integrates with the existing control systems of the ICoy Mover, providing a smooth and safe operation.
+- **Data Logging:** Captures and logs environmental data for further analysis and system refinement.
+
+
