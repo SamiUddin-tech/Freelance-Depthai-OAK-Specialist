@@ -76,7 +76,6 @@ An advanced anti-collision system designed specifically for the [ITWAY ICoy Move
 
 ![patient-bed-v2_edited](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/27b64fbb-946c-4b99-a424-0b75deb8482c)
 
-
-
+An innovative Fall Risk Alert system, developed for [Vitlacy](https://vitalacy.com/), utilizing the powerful OAK-D camera. This project aims to enhance patient safety in healthcare settings by providing real-time fall detection and alerting capabilities.
 
 
