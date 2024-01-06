@@ -7,7 +7,7 @@ This repository is dedicated to showcasing the expertise and projects of my Free
 ## Project-01: HornetAI
 ### PROTECTING NATIVE BIODIVERSITY With Biosecurity
 
-![HornetAI+ÔÇô┬álogo+ÔÇô+Colour+A-02](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/70398add-43f9-4147-a144-91d279bcbb5e)
+![HornetAI+ÔÇô┬álogo+ÔÇô+Colour+A-02(1)](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/5a090ae0-597a-472d-967d-39cf00ae13af)
 
 Hornet AI, designed for quick identification and monitoring of the invasive Asian hornet in Europe, is a crucial tool in wildlife management and ecological protection. It features a high-resolution camera set on a landing pad with attractants, capturing detailed images for continuous analysis. When Asian hornet presence is detected, the system sends real-time alerts, enabling prompt action by authorities. This technology is vital for distinguishing Asian hornets from native species and managing their spread, especially as sightings increase annually.
 
@@ -21,7 +21,7 @@ Hornet AI, designed for quick identification and monitoring of the invasive Asia
 ## Project-02: WaggleAI (POLLINATION ANALYSIS)
 ### DECODING THE HONEY BEE WAGGLE DANCE
 
-![WaggleAI+ÔÇô+Logo+ÔÇô┬áColour+B-07](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/8073f52b-a0c7-42d3-b660-e909c67f471c)
+![WaggleAI+ÔÇô+Logo+ÔÇô┬áColour+B-07(1)](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/9302af58-998c-40f2-801f-19ae17f42d12)
 
 The honey bee waggle dance is a unique form of communication used by worker bees to inform their colony about the location of food sources, indicating both the distance and direction relative to the sun. Traditionally, understanding this dance required manual interpretation, a time-intensive process. Pollenize has addressed this challenge by developing research beehives equipped with AI-powered cameras. These cameras are designed to decode the waggle dance in real-time. By doing so, the technology essentially turns bees into bioindicators, pinpointing their destinations much like a GPS. This innovative approach allows for a more efficient and precise understanding of where bees are foraging, potentially providing valuable ecological insights.
 
@@ -35,7 +35,7 @@ The honey bee waggle dance is a unique form of communication used by worker bees
 ## Project-03: MothAI (MOTH ID SYSTEM) 
 ### DECODING THE HONEY BEE WAGGLE DANCE
 
-![MothAI+ÔÇô+logo+ÔÇô+Black-23](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/95d8a48f-7d3f-4121-b9bd-c218e9d2e3fd)
+![MothAI+ÔÇô+logo+ÔÇô+Black-23(1)](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/34545d93-0028-497e-aa74-bfd4114ec9ec)
 
 The Moth AI Box is an innovative tool designed for monitoring and studying moth populations, an important bioindicator of biodiversity. Recognizing the significance of moths, which include over 2500 species in the UK alone, this device is particularly valuable for ecological research and conservation efforts.
 
