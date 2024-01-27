@@ -17,6 +17,8 @@ Hornet AI, designed for quick identification and monitoring of the invasive Asia
 
 ### Demo
 
+![software](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/9150dab7-0b27-44cb-8b10-dae9d04a646b)
+
 
 ## Project-02: WaggleAI (POLLINATION ANALYSIS)
 ### DECODING THE HONEY BEE WAGGLE DANCE
@@ -33,7 +35,7 @@ The honey bee waggle dance is a unique form of communication used by worker bees
 
 
 ## Project-03: MothAI (MOTH ID SYSTEM) 
-### DECODING THE HONEY BEE WAGGLE DANCE
+### MOTH ID SYSTEM
 
 ![MothAI+ÔÇô+logo+ÔÇô+Black-23(1)](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/34545d93-0028-497e-aa74-bfd4114ec9ec)
 
@@ -50,6 +52,8 @@ The Moth AI Box's ability to gather extensive data over extended periods is part
 **Luxonis Stack:** [OAK - 1 - Lite](https://shop.luxonis.com/collections/oak-cameras-1/products/oak-1-lite?variant=42583148069087)
 
 ### Demo
+
+![software](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/9150dab7-0b27-44cb-8b10-dae9d04a646b)
 
 ## Project-04: Anti Collision System for Heavy Duty Machinery for ITWAY ICOY MOVER
 ### Collision Avoidance System
