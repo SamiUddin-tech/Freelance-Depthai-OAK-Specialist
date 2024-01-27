@@ -17,8 +17,6 @@ Hornet AI, designed for quick identification and monitoring of the invasive Asia
 
 ### Demo
 
-![software](https://github.com/SamiUddin-tech/Freelance-Depthai-OAK-Specialist/assets/81253183/9150dab7-0b27-44cb-8b10-dae9d04a646b)
-
 
 ## Project-02: WaggleAI (POLLINATION ANALYSIS)
 ### DECODING THE HONEY BEE WAGGLE DANCE
